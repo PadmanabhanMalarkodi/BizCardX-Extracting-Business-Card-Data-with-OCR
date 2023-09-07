@@ -22,12 +22,12 @@ In this streamlit web app you can upload an image of a business card and extract
 #### **File handling libraries**
 * import os
 * import re
-### **SQL library**
+#### **SQL library**
 * import mysql.connector as sql
-### **Pandas, Matplotlib**
+#### **Pandas, Matplotlib**
 * import pandas as pd
 * import matplotlib.pyplot as plt  
-### **Dashboard libraries**
+#### **Dashboard libraries**
 * import streamlit as st
 * from streamlit_option_menu import option_menu
   
