@@ -51,4 +51,4 @@ In this streamlit web app, you can upload an image of a business card and extrac
 * The fetched data will appear in the form of data frame.
 #### Step 3. Modify Tab
 * In this page, we can alter the data collected from a business card, uplaod the modified data to the SQL database and then we can view the modified data as well.
-* Similarly, we can delete the data from MySQL database too.
+* Similarly, we can delete the data from MySQL database.
